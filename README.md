@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [B8One](https://www.b8one.com/)
 
-- 📝 I have an YouTube channel for development [https://www.youtube.com/channel/UCgMbExqiFFPza79dyMsuugw](https://www.youtube.com/channel/UCgMbExqiFFPza79dyMsuugw)
+- 📝 I have a YouTube channel for front-end content [https://www.youtube.com/channel/UCgMbExqiFFPza79dyMsuugw](https://www.youtube.com/channel/UCgMbExqiFFPza79dyMsuugw)
 
 - ⚡ Fun fact **I love oldschool and 2D games, so I'am studying game development at Cruzeiro do Sul**
 
