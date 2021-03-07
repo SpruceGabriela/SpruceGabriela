@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
-- 🔭 I’m currently working at [B8One](https://www.b8one.com/)
-
 - 📝 I have a YouTube channel for front-end content [https://www.youtube.com/GabrielaPinheiro](https://www.youtube.com/GabrielaPinheiro)
 
 - ⚡ Fun fact **I love oldschool and 2D games, so I'am studying game development at Cruzeiro do Sul**
